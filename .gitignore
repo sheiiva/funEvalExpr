@@ -1,0 +1,21 @@
+############################################
+#                MATHEMATICS               #
+############################################
+#                                          #
+#           COUTRET-ROZET Corentin         #
+#                                          #
+#            Project : funEvalExpr         #
+#                                          #
+############################################
+
+# STACK FILES
+.stack-work/
+*~
+
+#
+tmp
+
+funEvalExpr.cabal
+# BINARIES
+funEvalExpr
+funEvalExpr-exe
